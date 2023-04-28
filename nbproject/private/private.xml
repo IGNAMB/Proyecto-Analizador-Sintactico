@@ -3,11 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/AnalLexico/src/codigo/Tokens.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/AnalLexico/src/codigo/Principal.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/AnalLexico/src/codigo/Lexer.java</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/AnalLexico/src/codigo/Lexer.flex</file>
-            <file>file:/C:/Users/HP/Documents/NetBeansProjects/AnalLexico/src/codigo/FrmPrincipal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Analizador/src/codigo/FrmPrincipal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Analizador/src/codigo/Sintax.cup</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Analizador/src/codigo/sym.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Analizador/src/codigo/Principal.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Analizador/src/codigo/Sintax.java</file>
+            <file>file:/C:/Users/HP/Documents/NetBeansProjects/Analizador/src/codigo/LexerCup.java</file>
         </group>
     </open-files>
 </project-private>
